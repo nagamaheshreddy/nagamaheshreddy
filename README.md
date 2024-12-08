@@ -1,13 +1,9 @@
 # 👋 Hi, I'm **Naga Maheswara Reddy**! 
 
-![Profile Views](https://komarev.com/ghpvc/?username=nagamaheshreddy&color=brightgreen&style=flat-square)  
-[![GitHub followers](https://img.shields.io/github/followers/nagamaheshreddy?label=Follow&style=social)](https://github.com/nagamaheshreddy)
-[![Twitter Follow](https://img.shields.io/twitter/follow/nagamaheshreddy?style=social)](https://twitter.com/intent/follow?screen_name=nagamaheshreddy)
-
 ---
 
 ## 🚀 **About Me**
-🎓 **Backend Developer** with **1.5 years of experience** specializing in **Java**, **Spring Boot**, and **Microservices Architecture**.  
+🎓 **Software Developer** with **1.5 years of experience** specializing in **Java**, **Spring Boot**, and **Microservices Architecture**.  
 💻 Strong problem-solving background with **900+ LeetCode problems solved**, showcasing expertise in **Data Structures & Algorithms**.  
 🌟 Passionate about building scalable systems and contributing to meaningful projects.
 
