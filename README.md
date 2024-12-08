@@ -50,8 +50,6 @@
 </tr>
 </table>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nagamaheshreddy&theme=radical&margin-w=15)
-
 ---
 
 ## 🏆 **Achievements**
@@ -79,7 +77,7 @@ A dynamic portfolio to showcase my projects and achievements:
 ---
 
 ## 📚 **LeetCode Journey**
-![LeetCode Stats](https://leetcard.jacoblin.cool/nagamaheshreddy?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/NagaMahesh?theme=dark&ext=heatmap)
 
 ---
 
@@ -91,8 +89,8 @@ A dynamic portfolio to showcase my projects and achievements:
 ---
 
 ## 📞 **Contact Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagamaheshreddy/)  
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagamaheshreddy@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naga-maheswara-reddy/)  
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naga.maheswara.57@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23161616.svg?style=for-the-badge&logo=github&logoColor=white)](https://nagamaheshreddy.github.io)
 
 ---
